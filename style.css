@@ -1,0 +1,16 @@
+.nav-item a {
+    color: white;
+}
+.navbar-brand{
+    color: white;
+    margin-left: 60px;
+    font-size: 25px;
+}
+.navbar-nav{
+    margin-left: 300px;
+    font-size: 20px;
+}
+.card{
+    color: beige;
+    background-color: black;
+}
